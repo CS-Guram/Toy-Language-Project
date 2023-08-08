@@ -1,7 +1,7 @@
 # Project CISC 3160 
 # Guram Kutaladze
 
-#  The interpreter is able to do the following taks for a given program:
+#  The interpreter is able to do the following tasks for a given program:
 --------------------------------------------------------------
 (1) detect syntax errors;
 (2) report uninitialized variables;
