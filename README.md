@@ -1,4 +1,3 @@
-# Project CISC 3160 
 # Toy Language Interpreter
 --------------------------------------------------------------------------------------------------
 This project is an interpreter for a toy programming language that can perform various tasks including syntax error detection,
