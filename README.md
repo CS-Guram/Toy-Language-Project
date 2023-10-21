@@ -1,8 +1,5 @@
 # Toy Language Interpreter
 --------------------------------------------------------------------------------------------------
-This project is an interpreter for a toy programming language that can perform various tasks including syntax error detection,
-uninitialized variable reporting, assignment execution, and variable value printing.
-
 ## Features
 #  The interpreter is able to do the following tasks for a given program:
 --------------------------------------------------------------------------------------------------
